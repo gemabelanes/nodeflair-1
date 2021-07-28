@@ -1,0 +1,51 @@
+export const DATA = [
+        {company : 'Nodeflair', 
+        jobTitle : 'Junior Software Engineer', 
+        salary : '5000 - 7000',
+        datePosted : '2021-07-28T13:00:00',
+        role : 'Backend',
+        tags : ['play', 'OOP', 'SQL', 'Java'],
+        icon : 'https://www.nodeflair.com/assets/logos/nodeflair_vertical-e606f651118e5cedd02933b193fdb659033b441cef62da4d758f9321334682f1.svg'
+        },
+        {company : 'Nodeflair', 
+        jobTitle : 'R0117268 Senior Engineer, Transaction Monitoring Analytics AVP - Singapore', 
+        salary : '7000 - 9000',
+        datePosted : '2021-07-29T14:00:00',
+        role : 'Fullstack',
+        tags : ['Docker', 'Container', 'Akka', 'Lucene', 'Solr', 'Spark', 'Kubernetes', 'Kafka', 'iOS', 'Scala', 'Hadoop', 'Go'],
+        icon : 'https://www.nodeflair.com/assets/logos/nodeflair_vertical-e606f651118e5cedd02933b193fdb659033b441cef62da4d758f9321334682f1.svg'
+        },
+        {company : 'Nodeflair', 
+        jobTitle : 'Data Engineer', 
+        salary : '6500 - 8500',
+        datePosted : '2021-07-28T15:00:00',
+        role : 'Data Eng',
+        tags : ['ETL', 'MapReduce', 'Data Extraction', 'Strategy', 'Core Data', 'SQL', 'Python'],
+        icon : 'https://www.nodeflair.com/assets/logos/nodeflair_vertical-e606f651118e5cedd02933b193fdb659033b441cef62da4d758f9321334682f1.svg'
+        },
+        {company : 'Nodeflair', 
+        jobTitle : 'Machine Learning Engineer', 
+        salary : '7000 - 9000',
+        datePosted : '2021-07-29T16:00:00',
+        role : 'Data Eng',
+        tags : ['TensorFlow', 'Strategy', 'PyTorch', 'Python', 'AWS'],
+        icon : 'https://www.nodeflair.com/assets/logos/nodeflair_vertical-e606f651118e5cedd02933b193fdb659033b441cef62da4d758f9321334682f1.svg'
+        },
+        {company : 'Nodeflair', 
+        jobTitle : 'Product Manager', 
+        salary : '9000 - 11000',
+        datePosted : '2021-07-28T17:00:00',
+        role : 'PM',
+        tags : ['Strategy'],
+        icon : 'https://www.nodeflair.com/assets/logos/nodeflair_vertical-e606f651118e5cedd02933b193fdb659033b441cef62da4d758f9321334682f1.svg'
+        },
+        {company : 'Nodeflair', 
+        jobTitle : 'DevOps Engineer', 
+        salary : '8000 - 12000',
+        datePosted : '2021-07-29T18:00:00',
+        role : 'DevOps',
+        tags : ['Docker', 'Oracle', 'Karaf', 'Shell Script', 'OSGI', 'WebSphere', 'Shell', 'Rancher'],
+        icon : 'https://www.nodeflair.com/assets/logos/nodeflair_vertical-e606f651118e5cedd02933b193fdb659033b441cef62da4d758f9321334682f1.svg'
+        },
+        
+]
